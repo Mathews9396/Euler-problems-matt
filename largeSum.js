@@ -129,15 +129,3 @@ const testNums = ["37107287533902102798797998220837590246510135740250", "4637693
 
 const result = largeSum(testNums);
 console.log(result, result == 8348422521);
-
-// const arr = [1, 2];
-// const num = 4545121212323;
-// const strOfNum = String(num);
-// console.log(strOfNum.length);
-// let result = "";
-// for (let x = 0; x < 5; x++) {
-//   result += strOfNum[x];
-// }
-// console.log(parseInt(result));
-// const sum = arr.reduce((a, b) => a + b);
-// console.log(sum);
